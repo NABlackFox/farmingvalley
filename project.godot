@@ -13,3 +13,17 @@ config_version=5
 config/name="FarmingValley"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=853
+window/size/viewport_height=533
+window/size/window_width_override=1706
+window/size/window_height_override=1066
+window/stretch/mode="viewport"
+window/stretch/aspect="keep_height"
+window/stretch/scale_mode="integer"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
